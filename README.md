@@ -5,6 +5,12 @@
 ### Back-end
   - Node.js
   - Express
+  
+### Data Base
+  - PostgreSQL
+
+### APIs
+  - Google Maps
 
 ### Deploy
-  - Netlify
+  - Docker ou Netlify
